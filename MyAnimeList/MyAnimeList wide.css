@@ -1,0 +1,91 @@
+@-moz-document regexp("https://myanimelist.net/(?!(animelist|mangalist|ownlist/style/theme)).*") {
+.page-common #myanimelist, .page-common #menu, .widget-slide-block .widget-slide-outer {
+    width: 100%;
+}
+
+
+#widget-episode-video .widget-slide-outer, #widget-episode-video  {
+    width: 100%;
+}
+.widget-slide-block .widget-slide {
+    width: 101%;
+}
+/*
+.anime-manga-search .genre-link .genre-list {
+    width: 0.1%;
+}
+*/
+/*https://myanimelist.net/anime.php*/
+.genre-list-col {
+    display: flex;
+    justify-content: space-between;
+}
+
+/**/
+.anime-manga-search .genre-link {
+    width: 100%;
+}
+.page-common .h1.edit-info {
+    width: 98%;
+}
+.anime-slide-block .anime-slide .btn-anime .link {
+    height: 120px;
+    width: 100%;
+}
+
+.anime-slide-block {
+    overflow: hidden;
+    position: unset;
+    margin-left: 12.5%;
+}
+
+.seasonal-anime-list .seasonal-anime {
+    margin: auto;
+/*    border: transparent 2px solid;   
+    display: flex;
+    justify-content: space-between;
+    */
+    width:  334px; /*25%*/;
+
+}
+
+.seasonal-anime-list .seasonal-anime {
+    margin-bottom: 20px;
+    margin-left: 0;
+    margin-right: 0;
+    
+
+}
+.seasonal-anime-list .seasonal-anime .synopsis {
+    scrollbar-width: thin;
+}
+
+.navi-seasonal {
+    padding: 0; 
+    width: 99.8%;
+}
+
+/* Annoying thing on top */
+.navi-seasonal.fixed::after {
+    background-image: none;
+}
+
+.navi-seasonal .horiznav_nav, .navi-seasonal .horiznav-nav-seasonal {
+    padding-top: 1px;
+}
+
+.page-common .fn-grey2, .page-common .fs11, .page-common .pt8, .page-common .pr4, .page-common .ar{
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+    padding-right: unset;
+    text-align: center !important;
+    line-height: 11px;
+}
+/* /Annoying thing on top */
+
+.page-common div.picSurround img {
+    width: 100px;
+    image-rendering: auto;
+}
+
+}

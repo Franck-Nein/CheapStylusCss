@@ -1,0 +1,808 @@
+@-moz-document domain("animeflv.net") {
+.anime_episodios li a::before,
+.ListEpisodios .Image:before,
+.AnimeCover .Image figure a:before,
+.DpdwCnt.TtCn,
+.Header > .Mid .Search > form input,
+.Wdgt,
+.ListEpisodios .Image img,
+.Slide > .Bg,
+.Slide > .Bg span,
+.AnimeDia .AnimeCover .Image figcaption,
+.form-control,
+.list-group-item:last-child,
+.CapiVote,
+.Votes {
+    text-shadow: none!important;
+    box-shadow: none!important;
+    border-radius: 0px!important;
+}
+
+* {
+    text-shadow: none!important;
+    box-shadow: none!important;
+}
+
+/*-no mostrar ads-*/
+#footer,
+.gao,
+.publi_head,
+div#a4gss77519563910,
+.bloque_der .ads_der,
+.ads-always-down,
+div#cf-wrapper,
+div#cf-error-banner,
+cf-error-banner,
+.bloque_ads,
+div#google_image_div,
+iframe#google_image_div,
+.anime_info .ads,
+.gao,
+.bloque_der .ads_der,
+.ads-always-d,
+.ads_der,
+.ads-always-down,
+.ads,
+.adspl,
+.publi_1.blt,
+.publi_head,
+.publi_1.brt,
+.bloque_pos,
+.bloque_ads,
+#adv1,
+#shit,
+#MarketGidComposite19945,
+#swiffycontainer,
+#cpmstar-site-skin-l,
+#cpmstar-site-skin-r,
+#menu_epi iframe,
+#menu_epi div a,
+#menu_epi div a img,
+#ad_banner_example,
+div#BB_SK_9660389932,
+div#BB_SK_9602863451,
+div#M105140ScriptRootC94518,
+#adbl,
+.Header > .Top,
+.CFixed,
+.mgbox,
+.BFixed.SidebarB,
+.DvrAbs > .Dvr300 > iframe:nth-of-type(2),
+aside:nth-of-type(2) > .Dvr300 > iframe:nth-of-type(2),
+.DvrAbs > .Dvr300,
+.DvrAbs > label,
+ins > iframe,
+.fchlt .Title-Fch,
+.Anime.alt .Description:before,
+.AnflvTl,
+.anun {
+    display: none!important;
+}
+
+div[style*="width: 336px;"],
+div[style*="width:336px"] {
+    width: 0px!important;
+}
+
+/*-body-*/
+body,
+#rcnt,
+.exports-controller,
+.mw,
+.lob .pBa .wja,
+div.bottom-wrapper,
+.docs-homescreen-homescreenmain,
+#grid-cont,
+.Jvazdb,
+.kix-appview-editor,
+div[id="view_containter"] {
+    background: none #2B2B2B bottom fixed no-repeat !important;
+    background-image: none !important;
+    background-repeat: no-repeat !important;
+}
+
+body,
+#navbar,
+.menu_epi .actual,
+.epi_box ul.opvid .actual {
+    background-color: #2B2B2B;
+    background-image: none;
+}
+
+#contenedor,
+.bloque_der h1,
+.epi_cont,
+.anime_box,
+.ListResult > li:hover {
+    background: #252525;
+}
+
+#header,
+#busqueda_rapida,
+.inicio_box,
+.anime_info .portada,
+.aboxy_lista .portada,
+.aboxy {
+    background: transparent;
+}
+
+/*--------global color--------*/
+/*-text and default link color-*/
+body,
+.lista_simple li a:link,
+.lista_episodios:link,
+.menu_epi .opt,
+.epi_box .opcion span,
+.anime_info .menu a:link,
+#busqueda_rapida,
+.sub_bloque .titulo,
+.aboxy_lista .titulo:link,
+.anime_cont .alfabeto_box a:link,
+.anime_cont .generos_box a:link,
+.btn,
+.dropdown-menu > li > a,
+#navbar a:link,
+.aboxy_lista .generos_links a:link,
+.pagination > .disabled > span,
+.pagination > .disabled > span:hover,
+.pagination > .disabled > span:focus,
+.pagination > .disabled > a,
+.pagination > .disabled > a:hover,
+.pagination > .disabled > a:focus,
+div.Title,
+.AnimStat,
+.de-auth label,
+.form-control,
+.Footer,
+.panel-default > .panel-heading,
+a.list-group-item,
+button.list-group-item,
+a.list-group-item:hover,
+button.list-group-item:hover,
+a.list-group-item:focus,
+button.list-group-item:focus,
+p,
+.BtnNw,
+.NtxtCp,
+.ShrCnB p,
+.ListAnmRel > li,
+.Anime.alt .Description p:before,
+.Anime.alt .Description,
+.CpCnA .CapiTop .SubTitle {
+    color: #999999;
+}
+
+/*-text and hover visited color-*/
+a,
+h1,
+.bloque_der h1,
+.lista_simple li a:visited,
+.epi_box ul.opvid .actual,
+.epi_box .opcion a,
+.lista_episodios:visited,
+.anime_info .menu a:visited,
+.aboxy_lista .titulo:visited,
+.pagin .actual,
+.pagin a:visited,
+.anime_cont .alfabeto_box a:visited,
+.anime_cont .generos_box a:visited,
+#navbar a:visited,
+.aboxy_lista .generos_links a:visited,
+.Title.Page h1,
+.Title.Page h2,
+.Title.Page h3,
+.Title.Page h4,
+.Title.Page h5,
+.Title.Page h6,
+div.Top.fa-flash > strong,
+.Wdgt > .Top,
+.ListSdbr li a,
+h3.Title,
+.open > .dropdown-toggle.btn-default,
+.open > .dropdown-toggle.btn-default:hover,
+.open > .dropdown-toggle.btn-default:focus,
+.Sect > .Top,
+ul.ListEpisodes > li > a,
+.pagination > li > a:hover,
+.pagination > li > span:hover,
+.pagination > li > a:focus,
+.pagination > li > span:focus,
+.Header > .Mid .Menu > li > a,
+.Title a,
+h3 a,
+.CpCnA .CapiTop .Title,
+.ShrCnB .Title,
+.ListAnmRel > li > a,
+.Anime.alt .Description .Title,
+.Anime.alt > a > .Title {
+    color: #aaa;
+}
+
+.Nvgnrs a:hover,
+.CatLnk:hover,
+.Button.StylC:hover {
+    color: #252525;
+}
+
+/*--------no borders--------*/
+#contenedor,
+.bloque_izq h1,
+.bloque_der h1,
+.lista_simple li,
+.lista_simple li:hover,
+.episodio_head,
+.lista_episodios,
+#header,
+.menu_epi .actual,
+.epi_box ul.opvid,
+.anime_cont .tit,
+.sub_h1,
+.anime_cont h1,
+.anime_episodios li,
+.anime_info .portada,
+.anime_info .menu .actual,
+.aboxy_lista,
+.aboxy_lista .titulo:visited,
+.aboxy_lista .titulo:link,
+.aboxy_lista .portada,
+.aboxy,
+.filtro_anime,
+.pagin,
+.pagin a:link,
+.pagin a:visited,
+.pagin .actual,
+.pagin span,
+.anime_cont .alfabeto_box,
+.anime_cont .generos_box,
+#refinar_busqueda,
+.suggest-element,
+.jsonSuggest,
+.btn,
+.sub_bloque .titulo,
+.Wdgt > .Top,
+.AnimeDia .Tags,
+.Sect > .Bod,
+.Sect > .Top > i,
+.ListResult > li,
+.DpdwCnt.TtCn > .Title,
+.de-auth .form-control,
+.ListUser > li:last-child,
+.panel-default > .panel-heading,
+.form-control,
+.list-group-item,
+.WdgtCn.Sm .Top {
+    border: 0px solid red !important;
+    border-left: 0px solid red !important;
+    border-right: 0px solid red !important;
+    border-bottom: 0px solid red !important;
+    border-top: 0px solid red !important;
+    border-color: transparent !important;
+}
+
+.DpdwCnt.TtCn,
+.panel {
+    border: 1px solid rgba(86, 86, 86, 0.5) !important;
+}
+
+.ListCaps > li {
+    border-bottom: 1px solid #2B2B2B;
+}
+
+.ListAnmRel {
+    border-top: 1px solid #2B2B2B;
+}
+
+.lista_simple li:hover {
+    margin-top: 0px;
+}
+
+/*-lista-*/
+.lista_simple li,
+.epi_box .opcion,
+.anime_info .menu .actual,
+.sub_bloque .titulo,
+.aboxy_lista:nth-child(odd),
+.Synopsis {
+    background: #2B2B2B;
+}
+
+.Wdgt .Top .WdgtLink:after,
+.Header,
+.pagination > li > a:hover,
+.pagination > li > span:hover,
+.pagination > li > a:focus,
+.pagination > li > span:focus,
+.DpdwCnt.TtCn,
+.form-control,
+.panel-default > .panel-heading,
+.btn,
+.btn.active,
+a.list-group-item:hover,
+button.list-group-item:hover,
+a.list-group-item:focus,
+button.list-group-item:focus {
+    background-color: #2B2B2B;
+}
+
+.lista_simple li:nth-child(even),
+.epi_box .opcion:nth-child(even),
+.Wdgt,
+.Anime:before,
+.Noti:before,
+.AnimeCover,
+.Header > .Mid,
+.Sect,
+.AnimStat,
+.Sect.AnimRela > .Top,
+.de-auth .box,
+.Footer,
+.panel,
+.list-group-item,
+.CapiVote,
+.ListUser > li > a:hover,
+.WdgtCn,
+.BtnNw,
+.btface,
+.bttwtr,
+.fchlt .vtshr .Votes,
+.Anime.alt .Description {
+    background-color: #252525;
+}
+
+.lista_simple li:hover,
+.lista_simple li:nth-child(even):hover,
+.epi_box .opcion:hover,
+.epi_box .opcion:nth-child(even):hover,
+.anime_episodios li:hover,
+#refinar_busqueda .contenido_bloque li:hover,
+.suggest-hover {
+    background: rgba(255, 255, 255, 0.2);
+}
+
+.Wdgt.User .Avatar figure img,
+.Anime.alt .Image {
+    background-color: rgba(250, 250, 250, 0.05);
+}
+
+/*--------anime----------*/
+.Synopsis {
+    padding: 5px;
+}
+
+.anime_episodios li a::before {
+    background: #e64c4c;
+}
+
+.anime_episodios li a {
+    color: #e64c4c;
+}
+
+.anime_episodios li a:visited::before {
+    background: #6cc726;
+}
+
+.anime_episodios li a:visited {
+    color: #6cc726;
+}
+
+/*--------paginacion--------*/
+.pagin,
+.pagination > li > span,
+.pagination > li > a,
+.pagination > li > span,
+.pagination > .disabled > span,
+.pagination > .disabled > span:hover,
+.pagination > .disabled > span:focus,
+.pagination > .disabled > a,
+.pagination > .disabled > a:hover,
+.pagination > .disabled > a:focus {
+    background: #2b2b2b;
+}
+
+.pagination > li > span,
+.pagination > li > a,
+.pagination > li > span,
+.pagination > li > a:hover,
+.pagination > li > span:hover,
+.pagination > li > a:focus,
+.pagination > li > span:focus {
+    border: 1px solid transparent !important;
+}
+
+.pagin a:link,
+.pagin a:visited,
+.pagin .actual,
+.pagin span {
+    padding: 10px 20px;
+}
+
+.pagin .actual,
+.pagin a:hover,
+.anime_cont .alfabeto_box a:hover,
+.anime_cont .alfabeto_box a.actual,
+.anime_cont .generos_box a:hover,
+.anime_cont .generos_box a.actual,
+.jsonSuggest,
+.dropdown-menu,
+.btn-group.open .btn.dropdown-toggle {
+    background: #000;
+}
+
+.pagin a:link {
+    color: #FFF;
+}
+
+/*-busqueda-*/
+.suggest-element a {
+    color: #999999!important;
+}
+
+.suggest-element a:hover,
+.suggest-element a:visited {
+    color: #F7E667;
+}
+
+/*--------iconos-----*/
+img[src$="/img/i24/lista.png"] {
+    height: 24px!important;
+    /*height of new image*/
+    padding-left: 24px!important;
+    /*width of new image*/
+    width: 0!important;
+    /*
+    background-image: url("https://k60.kn3.net/D85CA443E.png")!important 
+    */
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAQAAABKfvVzAAAAIGNIUk0AAHolAACAgwAA+f8AAIDoAABSCAABFVgAADqXAAAXb9daH5AAAAACYktHRAD/h4/MvwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAl2cEFnAAAAGAAAABgAeEylpgAAAC5JREFUOMtj/M9AGmBhIFEHE4kWDEYNjKSGEsk2kAwY/4/GAw1sIBmMxgNNbAAAb74JICK1WdoAAAAldEVYdGRhdGU6Y3JlYXRlADIwMTYtMTItMjNUMDA6MTU6MzcrMDE6MDAwnFZBAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDE2LTEyLTIzVDAwOjE1OjM3KzAxOjAwQcHu/QAAAABJRU5ErkJggg==)!important 
+}
+
+img[src$="/img/i24/prev.png"] {
+    height: 22px!important;
+    /*height of new image*/
+    padding-left: 11px!important;
+    /*width of new image*/
+    width: 0!important;
+    /*
+    background-image: url("https://k60.kn3.net/396D623EE.png")!important
+    */
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAWCAQAAAC87a7oAAAAIGNIUk0AAHolAACAgwAA+f8AAIDoAABSCAABFVgAADqXAAAXb9daH5AAAAACYktHRAD/h4/MvwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAl2cEFnAAAACwAAABYAY434HQAAAFdJREFUGNN1kDESACEIA5P7/59jITqYcBQW6wZQYCiJgQABnKDhA4HP5V1M87XVY0yzcMLdJCBADdAXbJh/9nDBmqi0kQk2VYYvkzcxyf+7jnwOhw1OYgE1MR0HJbE5EwAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxNi0xMi0yM1QwMDoxNTo0NyswMTowMDpZX1gAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTYtMTItMjNUMDA6MTU6NDcrMDE6MDBLBOfkAAAAAElFTkSuQmCC)!important
+}
+
+img[src$="/img/i24/next.png"] {
+    height: 22px!important;
+    /*height of new image*/
+    padding-left: 11px!important;
+    /*width of new image*/
+    width: 0!important;
+    /*
+    background-image: url("https://k60.kn3.net/F5114611F.png")!important
+    */
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAWCAQAAAC87a7oAAAAIGNIUk0AAHolAACAgwAA+f8AAIDoAABSCAABFVgAADqXAAAXb9daH5AAAAACYktHRAD/h4/MvwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAl2cEFnAAAACwAAABYAY434HQAAAFRJREFUGNN1zEESwCAIBMFh//9nctAQ0I0HtXpQMpN7CTBB4IL2eQTVbQS1ewsabytMrnDyDjdDpmVIzz/T4TjcdLhPYm1yOKcLOzf8eODLBy6+EB6VchYmDuuusQAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxNi0xMi0yM1QwMDoxNTozOSswMTowMGCjLRwAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTYtMTItMjNUMDA6MTU6MzkrMDE6MDAR/pWgAAAAAElFTkSuQmCC)!important
+
+}
+/*
+.tipo_2 {
+    background: url(https://k60.kn3.net/0/4/6/F/E/9/B5B.png);
+}
+
+.tipo_1 {
+    background: url(https://k61.kn3.net/B/7/A/1/7/9/4AB.png);
+}
+
+.tipo_0 {
+    background: url(https://k61.kn3.net/E/F/7/5/4/D/E73.png);
+}
+
+.filtro_anime_lista {
+    background: url(https://k60.kn3.net/E/1/A/8/9/0/8FC.png);
+}
+
+.filtro_anime_bloques {
+    background: url(https://k61.kn3.net/5/9/5/9/9/7/9D8.png);
+}
+*/
+.tipo_2 {
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC8AAAAPCAYAAAB0i5aaAAAAIGNIUk0AAHolAACAgwAA+f8AAIDoAABSCAABFVgAADqXAAAXb9daH5AAAAAGYktHRAD/AP8A/6C9p5MAAAAJcEhZcwAACxMAAAsTAQCanBgAAAAJdnBBZwAAAC8AAAAPAGSwFiUAAAEoSURBVEjH7ZbhbYMwEEYfVRagIyQjJGGCJhPEjJCO0IwAI6Qj1BOUMEGkjhBGKCOQHz5LBzIKQYqqqHySBfcZjufzySJaf+8anlQvfw0wwT+jQvALIJLxCpRApTw/vKelvR9g1cmDehfxFkB13tqIsHJ5ZhA8wAlogCOQKr9R45YOwLInzz2yQC3FaGk2MuEt1biq/kpsZCH1nXk88IcsYqkn+yq/wW1vCmTK9y2zGQAPECtv3omHyMrC98Bnd7Kv8ifgTcW+R5uAF5KHrEcAt+DPW1vhWpCkMKXmelTbxPKRHLdzFngHLjJnca1Q4nYkpBKIk8L4guXy3mh4fSIcA95F3We4tssF+EtdU6nmXGIA9ImTFGZPe/cN7vTKJA/R9Hswwf8z+CtqyUP79OmnpAAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxNi0xMi0yMlQyMToyMToxNCswMTowMEHIAWMAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTYtMTItMjJUMjE6MjE6MTQrMDE6MDAwlbnfAAAAAElFTkSuQmCC);
+}
+
+.tipo_1 {
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC8AAAAPCAYAAAB0i5aaAAAAIGNIUk0AAHolAACAgwAA+f8AAIDoAABSCAABFVgAADqXAAAXb9daH5AAAAAGYktHRAD/AP8A/6C9p5MAAAAJcEhZcwAACxMAAAsTAQCanBgAAAAJdnBBZwAAAC8AAAAPAGSwFiUAAADaSURBVEjH7dbBDYJAEIXhf+0AS8ASsATuxgOWgCVICdgCJUgLlKAtWIKUgId9G0aOxrgSmQvLMIdvJrMJbtjvBmYaq9iABT/H+AS+A9aAA7bAHTgClalpgY2pd6qLiu+BA1ADA5AJXQDNBF8afKJcVHwHpAZ2EirX+83UFTo3wOUX8D1+iiFScy4FbJVPTWPT5qLgEzUQwu5xjp+4nXqnBpzgXUx8LnDY77OB5mqsUa4X/IG/H1de78XX8Ql+fyvGadbme4G/xGFlUsY1y/R8e/pu+T1Y8H+GfwJZaTKTJFORKAAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxNi0xMi0yMlQyMToxMjozOCswMTowMLaYsWgAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTYtMTItMjJUMjE6MTI6MzgrMDE6MDDHxQnUAAAAAElFTkSuQmCC);
+}
+
+.tipo_0 {
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC8AAAAPCAYAAAB0i5aaAAAAIGNIUk0AAHolAACAgwAA+f8AAIDoAABSCAABFVgAADqXAAAXb9daH5AAAAAGYktHRAD/AP8A/6C9p5MAAAAJcEhZcwAACxMAAAsTAQCanBgAAAAJdnBBZwAAAC8AAAAPAGSwFiUAAADsSURBVEjH7ZbdDYIwFEYPboArMAKOACPgCDKCjCAj2BV4cAB585kVWIER8IFLvDak/oGGyJfcQFvu7Wn7NcHzTpeWmWr1a4AFfo56Bz4GUtU2wBpopF3KNzXgSV8KBFadTI0H8t6HmQK+ASqgGOjPHuTWsjC9aK0z0ErspoA3UjiyFhBKu3LkhiqnBPwX5/4YvgASCQ3vAwfu7WSrz2lUHa2Ym21Gh6/pdnYDbGX3GjXeH3XhqBHRnd4QvLbN6PAFsFcT2NYBOOK+bAmQS+5XbWPofNtrCD7EfdkS66mlbZM/A+QtvwcL/J/BXwG5EzNTEVEKZwAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxNi0xMi0yMlQyMTowODo1MiswMTowMAIrqKgAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTYtMTItMjJUMjE6MDg6NTIrMDE6MDBzdhAUAAAAAElFTkSuQmCC);
+}
+
+.filtro_anime_lista {
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAQAAAC1+jfqAAAAIGNIUk0AAHolAACAgwAA+f8AAIDoAABSCAABFVgAADqXAAAXb9daH5AAAAACYktHRAD/h4/MvwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAl2cEFnAAAAEAAAABAAXMatwwAAAC9JREFUKM9j/P+fAQIYGRgYYGwkwILCY8RUwMRAAKCagMUKxv8ETCDCilFfUMcXAKAnDCibjX3gAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE2LTEyLTIyVDIxOjI4OjI1KzAxOjAwlSUm/gAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxNi0xMi0yMlQyMToyODoyNSswMTowMOR4nkIAAAAASUVORK5CYII=);
+}
+
+.filtro_anime_bloques {
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAQAAAC1+jfqAAAAIGNIUk0AAHolAACAgwAA+f8AAIDoAABSCAABFVgAADqXAAAXb9daH5AAAAACYktHRAD/h4/MvwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAl2cEFnAAAAEAAAABAAXMatwwAAACVJREFUKM9j/P+fAQIYGRgYsLCZGAgAyhUw/qfUBBaGUV9QRwEAmBwMHECELB4AAAAldEVYdGRhdGU6Y3JlYXRlADIwMTYtMTItMjJUMjE6Mjg6MjkrMDE6MDBShUyKAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDE2LTEyLTIyVDIxOjI4OjI5KzAxOjAwI9j0NgAAAABJRU5ErkJggg==);
+}
+
+.caret {
+    border-top: 4px solid #fff;
+}
+
+/*-------wide---------*/
+#contenedor,
+.centrar_bloque {
+    width: 100%;
+}
+
+.bloque_izq {
+    width: 68%;
+    padding-left: 20px;
+}
+
+.bloque_der {
+    float: right;
+    padding-right: 20px;
+    width: 26%;
+}
+
+div[style*="margin-right: -20px;"],
+div[style*="margin-right:-20px"] {
+    margin-right: -10px!important;
+}
+
+#refinar_busqueda {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.inicio_box {
+    margin-top: 10px;
+}
+
+.CapiVote {
+    margin-top: 30px;
+}
+
+/*-------------------BORDERRADIUS---------------*/
+.percircle,
+.percircle:after {
+    border-radius: 50% !important;
+    box-shadow: inset 0 0 0 5px rgba(1, 188, 243, 0.5) !important;
+}
+
+.CapiTnv > li.active > a {
+    box-shadow: inset 0 2px 0 #00bcf2 !important;
+}
+
+.ListEpisodios .Capi {
+    background-color: #383838 !important;
+    margin-bottom: 80px !important;
+}
+
+.Type.tv {
+    background-color: #383838 !important;
+    border-color: #383838 !important;
+}
+
+.Type.ova {
+    background-color: #383838 !important;
+    border-color: #383838 !important;
+}
+
+li .Type {
+    opacity: 1 !important;
+}
+
+.Wdgt > .Top[class*="fa-"]::before {
+    color: #aaa !important;
+}
+
+.ListEpisodios .Title {
+    white-space: unset !important;
+    text-shadow: 0px 0px 2px #000 !important;
+}
+
+.fa-star::before {
+    content: none !important;
+}
+
+.Title .Order > a.Active::before {
+    border-top: 5px solid #363636 !important;
+}
+
+.Title .Order > a:hover,
+.Title .Order > a.Active {
+    background-color: #363636 !important;
+    position: relative !important;
+}
+
+.Estreno span {
+    background-color: #383838 !important;
+}
+
+.Estreno::before {
+    background-color: #383838 !important;
+}
+
+.Estreno::after {
+    background-color: #383838 !important;
+}
+
+.WdgtCn {
+    background-color: transparent !important;
+}
+
+.lstopt-frm .btn {
+    background-color: #383838 !important;
+}
+
+.ListCaps > li::before {
+    color: #383838 !important;
+}
+
+.ListCaps > li.Next::before,
+.ListCaps > li.Next .Title {
+    color: #aaa !important;
+}
+
+.ListCaps > li.Next .Date {
+    color: #aaa !important;
+}
+
+.WdgtCn.Sm .Top .Title span {
+    color: #aaa !important;
+}
+
+.BtnNw.Pndng:hover {
+    color: #aaa !important;
+}
+
+.BtnNw.Pndng:before {
+    color: #aaa !important;
+    box-shadow: inset 0 0 0 1px #aaa !important;
+}
+
+.BtnNw.Pndng:hover:before {
+    background-color: #aaa !important;
+    color: #fff !important;
+}
+
+.BtnNw.AdFv:before,
+.BtnNw.AdFv.B:hover:before {
+    background-color: #404040 !important;
+}
+
+.BtnNw.AdFv:hover {
+    color: #404040 !important;
+}
+
+.BtnNw.Fllw:before,
+.BtnNw.Fllw.B:hover:before {
+    background-color: #404040 !important;
+}
+
+.BtnNw.Fllw:hover {
+    color: #404040 !important;
+}
+
+.Button.StylC {
+    background-color: #404040 !important;
+    color: #aaa !important;
+}
+
+.Button.StylC:hover {
+    background-color: #aaa !important;
+}
+
+.AnmStts,
+.BtnNw.Rcmndr {
+    background-color: #2b2b2b !important;
+    color: #aaa !important;
+}
+
+.Nvgnrs a,
+.CatLnk {
+    background-color: #303030 !important;
+    color: #aaa !important;
+}
+
+.Nvgnrs a:hover,
+.CatLnk:hover {
+    background-color: #383838 !important;
+}
+
+.Votes .Strs > [class*="fa-"] {
+    color: #aaa !important;
+}
+
+.fchlt .vtshr .Votes .vtprmd {
+    background-color: unset !important;
+}
+
+.Anime.alt.B .Image::after {
+    background-color: rgba(38, 38, 38, 0.5) !important;
+}
+
+.filters .caret::before {
+    color: #aaa !important;
+}
+
+.filters > .btn.btn-primary {
+    background-color: #212121 !important;
+}
+
+.Button.Vrnmlk {
+    background-color: #383838 !important;
+}
+
+.Flwrs::before {
+    color: #aaa !important;
+}
+
+.Button:hover,
+a.Button:hover,
+button:hover,
+input[type=button]:hover,
+input[type=reset]:hover,
+input[type=submit]:hover {
+    background-color: #202020 !important;
+}
+
+.Anime.alt.B .Image::after {
+    background-color: rgba(38, 38, 38, 0.5) !important;
+}
+.Brdcrmb i {
+    color: #aaa !important;
+}
+div.south {
+    background: #484848;
+    border: 2px solid #484848;
+}
+div.north {
+    border: none;
+    background: #484848;
+/*    border: 2px solid #484848;
+*/
+}
+/* revisar */
+.Main p {
+    background: #212121;
+    color: #aaa;
+}
+.Title.Page.fa-star::after {
+    background-color: #2b2b2b;
+}
+.Anime.alt .Description p {
+    line-height: 18px;
+    font-size: 11px;
+    background: #3b4348;
+    color: #b0bec5;
+}
+#malp {
+    background: #2b2b2b;
+}
+.WdgtCn:last-child, .WdgtCn .Description > :last-child {
+    background: #2b2b2b;
+}
+.Ficha .TxtAlt {
+    background: #2b2b2b;
+}
+.ListAnmRel > li::before {
+    color: #aaa;
+}
+.ListCaps > li .Title, .ListCaps > li p {
+    background: #2b2b2b;
+}
+.Brdcrmb::before {
+    color: #fff;
+}
+/*
+.image-replacement-test {
+background: url('data:image/png;base64,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')!important
+    padding-left: 110px;
+}
+*/
+
+
+
+html {
+    scrollbar-color: #242424 #333;
+    scrollbar-width: thin;
+}
+}
